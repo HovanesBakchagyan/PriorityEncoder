@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Sat Mar 04 18:13:00 2017
+# Process ID: 676
+# Current directory: D:/Xilinx/Pri_Enc/Pri_Enc.runs/impl_1
+# Command line: vivado.exe -log priority_encoder.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source priority_encoder.tcl -notrace
+# Log file: D:/Xilinx/Pri_Enc/Pri_Enc.runs/impl_1/priority_encoder.vdi
+# Journal file: D:/Xilinx/Pri_Enc/Pri_Enc.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source priority_encoder.tcl -notrace

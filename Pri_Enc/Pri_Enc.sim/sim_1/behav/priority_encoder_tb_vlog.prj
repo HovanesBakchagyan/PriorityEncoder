@@ -1,0 +1,9 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../Pri_Enc.srcs/sources_1/imports/new/priority_encoder1.v"
+verilog xil_defaultlib  "../../../Pri_Enc.srcs/sim_1/new/priority_encoder_tb.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
